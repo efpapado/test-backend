@@ -1,0 +1,3 @@
+[submodule "path/to/frontend"]
+	path = path/to/frontend
+	url = git@github.com:efpapado/test-frontend.git
